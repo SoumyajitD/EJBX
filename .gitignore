@@ -4,3 +4,16 @@ wlp/
 /wlp
 /.metadata
 *.properties
+CalcXClient/.project
+CalcXClient/.classpath
+CalcXEAR/.project
+SimpleWebClient/.classpath
+SimpleWebClient/.project
+*.component
+*.container
+*.xml
+*.prefs
+CalcX/.project
+CalcX/.classpath
+SimpleWebClient/.settings/.jsdtscope
+*.name
