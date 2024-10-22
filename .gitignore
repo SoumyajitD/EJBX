@@ -1,0 +1,6 @@
+.metadata/
+wlp/
+.metadata/.lock
+/wlp
+/.metadata
+*.properties
